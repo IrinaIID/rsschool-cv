@@ -5,9 +5,9 @@
 ---
 
 #### Contacts
-discord: IrinaIID (@IrinaIID)
-28myhome@gmail.com
-[my behance profile](https://www.behance.net/irinaishchenko)
+* discord: IrinaIID (@IrinaIID)
+* 28myhome@gmail.com
+* [my behance profile](https://www.behance.net/irinaishchenko)
 
 ---
 
