@@ -1,3 +1,60 @@
-.block{
-    color: red;
-};
+# {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Open Sans, Futura, sans-serif;
+    font-size: 18px;
+    color: #000;
+    font-weight: 400;
+    letter-spacing: 4px;
+    line-height: 24px;
+
+}
+
+.container {
+    display: flex;
+    margin: 0;
+    
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.item__orange {
+    align-items: start;
+    background-color: #EF4B32;
+    width: 440px;
+    color: #fff;
+    margin: 0;
+}
+
+.my__name {
+    width: 222px;
+    font-size: 44px;font-weight: 400;
+    line-height: 60px;
+    padding-left: 95px;
+    padding-top: 50px;
+}
+
+.contacts {
+    padding-top: 43px;
+    letter-spacing: 4px;
+    padding-left: 95px;
+}
+
+.behance {
+    color: #fff;
+}
+
+.img {
+    padding-left: 95px;
+}
+
+.discord, .email {
+    padding-bottom: 10px;
+}
