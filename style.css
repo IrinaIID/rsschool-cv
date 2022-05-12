@@ -10,19 +10,16 @@ body {
     font-weight: 400;
     letter-spacing: 2px;
     line-height: 24px;
-
 }
 
 .container {
     display: flex;
     margin: 0;
-    
 }
 
 .item {
     display: flex;
     flex-direction: column;
-    
 }
 
 .item__orange {
@@ -81,4 +78,8 @@ h2 {
 
  .link__project {
      color: #EF4B32;
+ }
+ 
+ ul {
+     padding-left: 20px;
  }
