@@ -83,7 +83,6 @@ main {
 
 h2 {
     font-size: 32px;
-    /* letter-spacing: 2px; */
     padding-bottom: 18px;
 }
 
@@ -101,4 +100,22 @@ pre {
 
 .link-cv {
     font-weight: 700;
+}
+
+footer {
+    border-left: 2px solid #09183E;
+
+}
+   
+.footer-information {
+    width: 740px;
+    margin: auto;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-rss {
+    width: 100px;
 }
