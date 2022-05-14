@@ -29,16 +29,16 @@ nav {
     margin-bottom: 100px;
 }
 
-.item-menu {
-    margin-bottom: 20px;
-}
-
 .nav-menu {
     width: 110px;
 }
 
 .block-main-information {
     width: 100%;
+}
+
+.item-menu {
+    padding-bottom: 20px;
 }
 
 header {
@@ -106,7 +106,7 @@ footer {
     border-left: 2px solid #09183E;
 
 }
-   
+
 .footer-information {
     width: 740px;
     margin: auto;
