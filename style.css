@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -8,6 +9,7 @@ body {
     font-family: Open Sans, Helvetica, sans-serif;
     color: #09183E;
     line-height: 27px;
+    
 }
 
 .wrap {
@@ -31,6 +33,10 @@ nav {
 
 .nav-menu {
     width: 110px;
+}
+
+.nav-menu a {
+    text-decoration: none;
 }
 
 .block-main-information {
@@ -118,4 +124,9 @@ footer {
 
 .logo-rss {
     width: 100px;
+}
+
+a:hover {
+    color: #3a5496;
+    transition: .4;
 }
