@@ -58,7 +58,7 @@ main {
 
 h1 {
     margin: auto;
-    padding-bottom: 32px;
+    padding-bottom: 58px;
     padding-top: 88px;
     color: #ffffff;
     font-size: 44px;
@@ -94,10 +94,6 @@ h2 {
 
 .contact {
     padding-bottom: 8px;
-}
-
-.contact-icon {
-    width: 20px;
 }
 
 ul {
