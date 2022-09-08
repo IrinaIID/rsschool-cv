@@ -9,7 +9,6 @@ body {
     font-family: Open Sans, Helvetica, sans-serif;
     color: #09183E;
     line-height: 27px;
-    
 }
 
 .wrap {
@@ -85,7 +84,7 @@ main {
 
 .main-block {
     padding-bottom: 40px;
-} 
+}
 
 h2 {
     font-size: 32px;
@@ -110,7 +109,6 @@ pre {
 
 footer {
     border-left: 2px solid #09183E;
-
 }
 
 .footer-information {
@@ -129,4 +127,9 @@ footer {
 a:hover {
     color: #3a5496;
     transition: .4;
+}
+
+.contact-icon {
+    width: 20px;
+    height: 20px;
 }
