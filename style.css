@@ -128,3 +128,8 @@ a:hover {
     color: #3a5496;
     transition: .4;
 }
+
+.contact-icon {
+    width: 20px;
+    height: 20px;
+}
